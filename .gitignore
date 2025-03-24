@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# Editor/IDE stuff
+.vscode/
+.idea/
+
+# macOS / system files
+.DS_Store
+Thumbs.db
+
+# Sphinx build output
+docs/_build/
+docs/.doctrees/
