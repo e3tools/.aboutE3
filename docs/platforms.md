@@ -8,12 +8,12 @@ Our platforms are designed to be modular and extensible, allowing for easy integ
 
 Here is the list of our current platforms and its applications:
 
-| Platform     | Applications                                                                                                                                                                 |
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| GRM Platform | - Monitoring web protal<br/> - Focal Point Mobile App                                                                                                                        |
-| CDD Platform | - Local Development Portal<br/> - CDD Monitoring and Implementation Web Dashboard<br> - CDD Monitoring and Implementation Mobile App<br/>- Community Facilitators Mobile App |
-| M&E Platform | - Mis Web Portal<br/>                                                                                                                                                        |
-| CE Platform  | - Participatory Tools App<br/>                                                                                                                                               |
+| Platform                             | Applications                                                                                                                                                                                                               |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [GRM Platform](platforms/grm/grm.md) | - Monitoring web protal<br/> - Focal Point Mobile App                                                                                                                                                                      |
+| [CDD Platform](platforms/cdd/cdd.md) | - Local Development Portal<br/> - CDD Monitoring and Implementation Web Dashboard<br> - CDD Monitoring and Implementation Mobile App<br/>- Community Facilitators Mobile App |
+| [M&E Platform](platforms/me/me.md)   | - Mis Web Portal<br/>                                                                                                                                                                                                      |
+| CE Platform                          | - Participatory Tools App<br/>                                                                                                                                                                                             |
 
 
 
