@@ -39,11 +39,8 @@ The E3 Initiative provides communities with the tools they need to **monitor, gu
 
 - [Our Platforms](platforms.md)
 - [Our Methodology](methodology.md)
-- [Installation Guide](install.md)
 - [Architecture Overview](architecture.md)
-- [Modules & Features](modules.md)
-- [Developer Guide](developer.md)
-- [API Reference](api.md)
+
 
 ---
 
